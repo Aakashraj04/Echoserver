@@ -68,11 +68,13 @@ if __name__ == "__main__":
 
 ## OUTPUT:
 
-### Server Side
-![image](https://github.com/Aakashraj04/Echoserver/assets/121117266/10e478de-2bec-4d1a-8f73-b66af06feee3)
-
 ### Client Side
-![image](https://github.com/Aakashraj04/Echoserver/assets/121117266/e24350dd-6ca8-42b9-ac41-c9d2308d8799)
+![client](https://github.com/Aakashraj04/Echoserver/assets/121117266/0331473a-25f5-4f88-9c54-ecb2a1da76e2)
+
+
+### Server Side
+![server](https://github.com/Aakashraj04/Echoserver/assets/121117266/281956db-10e2-4004-a08a-a9fba17f12c9)
+
 
 ## RESULT:
 The program is executed successfully
