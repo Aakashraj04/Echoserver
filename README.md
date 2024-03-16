@@ -69,10 +69,12 @@ if __name__ == "__main__":
 ## OUTPUT:
 
 ### Server Side
-![server](https://github.com/Aakashraj04/Echoserver/assets/121117266/281956db-10e2-4004-a08a-a9fba17f12c9)
+![server](https://github.com/Aakashraj04/Echoserver/assets/121117266/3d339565-5e4e-4b00-bc6b-4b3f517611cd)
+
 
 ### Client Side
-![client](https://github.com/Aakashraj04/Echoserver/assets/121117266/0331473a-25f5-4f88-9c54-ecb2a1da76e2)
+![client](https://github.com/Aakashraj04/Echoserver/assets/121117266/0f47cd98-456f-4398-983b-2b8385d43351)
+
 
 ## RESULT:
 The program is executed successfully
